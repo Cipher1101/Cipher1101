@@ -3,10 +3,15 @@ Hello there!
 I have recently started learning software development, and will be including certificates and achievements as I go through them. They will mostly be focused on back-end development.
 
 [Boot.dev Introduction to Python Course certificate](https://www.boot.dev/certificates/1ea0451c-d91c-4411-bfef-4411354f24ed)
+
 [Boot.dev Learn Linux certificate](https://www.boot.dev/certificates/b9ef7c39-9098-4ff3-a196-2b8093f954b2)
+
 [Boot.dev Build a Bookbot in Python certificate](https://www.boot.dev/certificates/a2d6f034-06f9-427a-be2f-5ead09e59f52)
+
 [Boot.dev Learn Git certificate](https://www.boot.dev/certificates/d4def05a-61f5-4756-8fcf-b1269e72fe86)
+
 [Boot.dev Learn Object Oriented Programming in Python certificate](https://www.boot.dev/certificates/12dfcf67-40bd-4520-b44d-196ef016fbf6)
+
 
 <!--
 **Cipher1101/Cipher1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
