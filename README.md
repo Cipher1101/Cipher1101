@@ -14,6 +14,8 @@ I have recently started learning software development, and will be including cer
 
 [Boot.dev Build Asteroids using Python and Pygame certificate](https://www.boot.dev/certificates/e5edd790-418c-4a87-8f2d-821b200e1627)
 
+[Boot.dev Learn Functional Programming in Python certificate](https://www.boot.dev/certificates/1412c52f-3bcc-455a-b5f5-dd22d7d02f83)
+
 
 <!--
 **Cipher1101/Cipher1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
