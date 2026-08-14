@@ -16,6 +16,8 @@ I have recently started learning software development, and will be including cer
 
 [Boot.dev Learn Functional Programming in Python certificate](https://www.boot.dev/certificates/1412c52f-3bcc-455a-b5f5-dd22d7d02f83)
 
+[Boot.dev Build an AI Agent in Python certificate](https://www.boot.dev/certificates/4f54f12d-e12a-4bdf-8246-cbd9339ad40f)
+
 
 <!--
 **Cipher1101/Cipher1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
