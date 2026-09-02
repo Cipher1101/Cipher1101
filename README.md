@@ -19,4 +19,6 @@ I have recently started learning software development, and will be including cer
 
 - [Boot.dev Build an AI Agent in Python certificate](https://www.boot.dev/certificates/4f54f12d-e12a-4bdf-8246-cbd9339ad40f)
 
-- [Boot.dev Learn Data Structures and Algorithms in Python certificate](https://www.boot.dev/certificates/cbf24276-8221-47a6-ab4c-b1480bc8e11d)</spoiler>
+- [Boot.dev Learn Data Structures and Algorithms in Python certificate](https://www.boot.dev/certificates/cbf24276-8221-47a6-ab4c-b1480bc8e11d)
+
+- [Boot.dev Build a Static Site Generator in Python certificate](https://www.boot.dev/certificates/b1f16c42-d07e-44cc-8cd2-5c912230905d)
