@@ -22,3 +22,5 @@ I have recently started learning software development, and will be including cer
 - [Boot.dev Learn Data Structures and Algorithms in Python certificate](https://www.boot.dev/certificates/cbf24276-8221-47a6-ab4c-b1480bc8e11d)
 
 - [Boot.dev Build a Static Site Generator in Python certificate](https://www.boot.dev/certificates/b1f16c42-d07e-44cc-8cd2-5c912230905d)
+
+- [Boot.dev Learn Memory Management in C certificate](https://www.boot.dev/certificates/c34f4fb1-fec3-4a37-8b47-7217f04ddbab)
