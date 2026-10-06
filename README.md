@@ -26,3 +26,5 @@ I have recently started learning software development, and will be including cer
 - [Boot.dev Learn Memory Management in C certificate](https://www.boot.dev/certificates/c34f4fb1-fec3-4a37-8b47-7217f04ddbab)
 
 - [Boot.dev Learn Go certificate](https://www.boot.dev/certificates/05549bc2-648d-46d6-a5e9-cad0866f2f71)
+
+- [Boot.dev Learn HTTP Clients in Go certificate](https://www.boot.dev/certificates/66ad7bb4-51c3-4112-8066-0965ce0dd766)
